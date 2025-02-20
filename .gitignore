@@ -1,6 +1,7 @@
 .idea/
 logs/
 .env
+.development
 
 # Clacky-related
 .1024*
