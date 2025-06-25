@@ -3,10 +3,6 @@ logs/
 .env
 .development
 
-# Clacky-related configuration
-.1024*
-!.1024
-.breakpoints
 
 # Go-specific
 /vendor/
