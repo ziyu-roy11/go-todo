@@ -3,6 +3,9 @@ logs/
 .env
 .development
 
+# Clacky-related configuration
+.clackyai/
+
 
 # Go-specific
 /vendor/
